@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "br.edu.fatecpg.approom.app-mergeDebugResources-36:/layout/activity_main.xml",
+        "source": "br.edu.fatecpg.approom.app-main-39:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/gugaprogramador24/.gradle/daemon/8.13/br.edu.fatecpg.approom.app-mergeDebugResources-36:/layout/activity_main.xml",
+        "source": "/home/gugaprogramador24/.gradle/daemon/8.13/br.edu.fatecpg.approom.app-main-39:/layout/activity_main.xml"
+    }
+]
